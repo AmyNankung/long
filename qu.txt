@@ -1,0 +1,5 @@
+# Current total domain name : 43,000+ 
+# Update time : 2020.9.12
+
+# AdRule
+DOMAIN,baidu.com,REJECT
