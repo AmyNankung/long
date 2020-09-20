@@ -1,9 +1,0 @@
-# Current total domain name : 43,000+ 
-# Update time : 2020.9.12
-
-# AdRule
-DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
-DOMAIN-SUFFIX,sf1-fe-tos.pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
-DOMAIN-SUFFIX,sf3-be-pack.pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX, dgdy.in/api.php,REJECT
