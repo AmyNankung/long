@@ -2,4 +2,7 @@
 # Update time : 2020.9.12
 
 # AdRule
-DOMAIN-SUFFIX,去广告,REJECT
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,sf1-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,sf3-be-pack.pglstatp-toutiao.com,REJECT
