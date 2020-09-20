@@ -3,3 +3,4 @@
 
 # AdRule
 DOMAIN,m.baidu.com,REJECT
+DOMAIN-SUFFIX,m.baidu.com,REJECT
