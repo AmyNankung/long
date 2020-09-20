@@ -2,5 +2,5 @@
 # Update time : 2020.9.12
 
 # AdRule
-DOMAIN,m.baidu.com,REJECT
-DOMAIN-SUFFIX,m.baidu.com,REJECT
+#DOMAIN,aidu.com,REJECT
+DOMAIN-SUFFIX,baidu.com,REJECT
