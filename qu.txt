@@ -2,5 +2,4 @@
 # Update time : 2020.9.12
 
 # AdRule
-#DOMAIN,aidu.com,REJECT
-DOMAIN-SUFFIX,baidu.com,REJECT
+DOMAIN-SUFFIX,去广告,REJECT
