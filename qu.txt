@@ -2,4 +2,4 @@
 # Update time : 2020.9.12
 
 # AdRule
-DOMAIN,baidu.com,REJECT
+DOMAIN,m.baidu.com,REJECT
