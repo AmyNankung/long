@@ -15,7 +15,7 @@ hostname= *.googlevideo.com, trade-acs.m.taobao.com, m.samh.xndm.tech, bea.sport
 
 #万里影视
 
-^http:\/\/www\.3032021\.com\/login\/login  url script-response-body https://github.com/jianglilong/long/blob/master/wanli.js
+^http:\/\/www\.3032021\.com\/login\/login\/sign\.html\?uid\=585272  url script-response-body https://github.com/jianglilong/long/blob/master/wanli.js
 #爱加速
 ^http:\/\/api\.apehorse\.com  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
 ^http:\/\/myip\.top  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js 
