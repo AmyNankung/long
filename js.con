@@ -17,7 +17,7 @@ hostname= *.googlevideo.com, trade-acs.m.taobao.com, m.samh.xndm.tech, bea.sport
 
 ^http:\/\/www\.3032021\.com\/login\/login\/sign\.html\?uid\=585272  url script-response-body https://github.com/jianglilong/long/blob/master/wanli.js
 #爱加速
-#^http:\/\/api\.sohoapi\.com\/api\/ucenter\/check\_user\_info\_zm  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
+^http:\/\/api\.sohoapi\.com\/api\/ucenter\/check\_user\_info\_zm  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
 ^http:\/\/zmapi\.zhimasdk\.com\/api\/ucenter\/check\_user\_info\_zm  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
 
 #^http:\/\/mdap\.alipaylog\.com\/loggw\/logConfig\.do  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js 
