@@ -16,6 +16,10 @@ obj.ret_data.vip_time=2222504183;
 obj.ret_data.s_vip_time=2222504183;
 obj.ret_data.n_vip_time=2222504183;
 obj.ret_data.ss_vip_time=2222504183;
+obj.ret_data.vip_type=0;
+
+
+
 obj.timestamp=2222504183;
 
 obj.ret=0;
