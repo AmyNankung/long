@@ -23,7 +23,7 @@ obj.vip_time=2222504183;
 obj.time=2222504183
 obj.expire_time="2030-06-12 20:51:47";
 obj.expire_time_format="2030-06-12 20:56:54";
-obj.ret_data.info.expire_time_format="2030-06-12 20:56:54";
+
 
 body = JSON.stringify(obj); // 重新打包回json字符串
 $done(body); // 结束修改
