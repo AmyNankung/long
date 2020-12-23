@@ -19,7 +19,6 @@ obj.ret_data.ss_vip_time=2222504183;
 obj.ret_data.
 obj.timestamp=2222504183;
 
-obj.code=0;
 obj.ret=0;
 
 
