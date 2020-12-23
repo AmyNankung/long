@@ -23,7 +23,7 @@ obj.ret_data.vip_type=3;
 obj.timestamp=2222504183;
 
 obj.ret=0;
-
+obj.code=0;
 
 body = JSON.stringify(obj); // 重新打包回json字符串
 $done(body); // 结束修改
