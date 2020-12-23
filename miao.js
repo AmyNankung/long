@@ -10,14 +10,7 @@ var obj = JSON.parse(body); // JSON.parse()将json形式的body转变成对象�
 
 
 obj.ret_data.vip_type=3;
-obj.ret_data.time=2222504183;
-obj.ret_data.expire_time="2030-06-12 20:51:47";
-obj.ret_data.vip_time=2222504183;
-obj.ret_data.s_vip_time=2222504183;
-obj.ret_data.n_vip_time=2222504183;
-obj.ret_data.ss_vip_time=2222504183;
-obj.ret_data.vip_type=3;
-obj.timestamp=2222504183;
+
 
 
 body = JSON.stringify(obj); // 重新打包回json字符串
