@@ -20,7 +20,7 @@ hostname= *.googlevideo.com, trade-acs.m.taobao.com, m.samh.xndm.tech, bea.sport
 ^http:\/\/api\.sohoapi\.com\/api\/ucenter  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
 ^http:\/\/zmapi\.zhimasdk\.com\/api\/ucenter\/check\_user_info_zm  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js
 
-#^http:\/\/mdap\.alipaylog\.com\/loggw\/logConfig\.do  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js 
+^http:\/\/mdap\.alipaylog\.com\/loggw\/logConfig\.do  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/miao.js 
 
 #Glados机场订阅
 ^https:\/\/glados\.rocks\/api\/user\/checkin url script-request-body https://raw.githubusercontent.com/jianglilong/long/master/airplaysign.js
