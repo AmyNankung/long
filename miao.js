@@ -19,10 +19,7 @@ obj.timestamp=2222504183;
 obj.code=0;
 obj.ret=0;
 obj.content.delayConfig.delayDesc="2030-12-01";
-obj.content.delayConfig.tStart=[
-        "2222504183",
-        "2222504183"
-      ]
+obj.content.delayConfig.tStart=["2222504183","2222504183"]
 
 body = JSON.stringify(obj); // 重新打包回json字符串
 $done(body); // 结束修改
