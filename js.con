@@ -25,4 +25,6 @@ hostname= *.googlevideo.com, trade-acs.m.taobao.com, m.samh.xndm.tech, bea.sport
 
 #Glados机场订阅
 ^https:\/\/glados\.rocks\/api\/user\/checkin url script-request-body https://raw.githubusercontent.com/jianglilong/long/master/airplaysign.js
+#planvpn
+^https:\/\/googleads\.g\.doubleclick\.net\/mads  url script-response-body https://raw.githubusercontent.com/jianglilong/long/master/plan.js
 
