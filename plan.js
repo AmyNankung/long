@@ -6,6 +6,7 @@ var obj = JSON.parse(body); // JSON.parse()将json形式的body转变成对象�
 
 
 obj= {
+  {
   "ad_networks" : [
     {
       "ad" : {
@@ -99,5 +100,6 @@ obj= {
     ]
   }
 }
+};//
 body = JSON.stringify(obj); // 重新打包回json字符串
 $done(body); // 结束修改
